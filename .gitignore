@@ -1,0 +1,50 @@
+# Gradle build artifacts
+.gradle/
+build/
+out/
+output/
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Compiled class files
+*.class
+
+# Package distribution
+*.jar
+*.war
+*.ear
+
+# Generated files
+generated/
+bin/
+
+# Test reports
+test-output/
+reports/
+
+# Environment files
+.env
+.env.*
+
+# Node modules (if using frontend tooling)
+node_modules/
+
+# Coverage reports
+coverage/
+*.lcov
+
+# Misc
+*.swp
+*.swo
